@@ -1,0 +1,36 @@
+[19:00:38] Creating the application class
+[19:00:40] Creating the scenes
+[19:00:40] All scenes are created
+[19:00:40] Creating texture
+[19:00:40] Loading image to texture from Application/Source/Scene_01/image.png
+[19:00:40] Unable to load image Application/Source/Scene_01/image.png! Sdl_image Error: Couldn't open Application/Source/Scene_01/image.png
+[19:00:40] Texture created
+[19:00:40] The scene loaded
+[19:00:40] Application class created
+
+[19:00:42] Deleting texture from Application/Source/Scene_01/image.png
+[19:00:42] Texture from Application/Source/Scene_01/image.png deleted
+[19:00:42] The scene cleared
+
+[19:00:42] The scene loaded
+[19:00:42] The scene cleared
+
+[19:00:42] The scene loaded
+[19:00:43] The scene cleared
+
+[19:00:43] Reading the Application/cfg/graph.cfg
+[19:00:43] Could not read Application/cfg/graph.cfg
+[19:00:43] Failed to read the config
+[19:00:43] The scene loaded
+[19:00:44] The scene cleared
+
+[19:00:44] The scene loaded
+[19:00:45] The scene cleared
+
+[19:00:45] The scene loaded
+[19:00:55] The scene cleared
+
+[19:01:04] Deleting application class
+[19:01:04] Deleting all scenes
+[19:01:04] All scenes deleted
+[19:01:04] Application class deleted
